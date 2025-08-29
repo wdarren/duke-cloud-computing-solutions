@@ -1,12 +1,10 @@
 # Cloud Computing Foundations
 
-### 01 - Cloud Computing Foundation
-- [1. Create Markdown in Jupyter](01-Cloud-Computing-Foundation/Practice_Markdown.ipynb)  
+- [1. Create Markdown in Jupyter](01-Cloud-Computing-Foundation/Practice_Markdown.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wdarren/duke-cloud-computing-solutions/blob/main/01-Cloud-Computing-Foundation/Practice_Markdown.ipynb)
 
 
-### 02 - More Notebooks
-- [2. Unit Testing](01-Cloud-Computing-Foundation/Unit-Testing.ipynb)  
+- [2. Unit Testing](01-Cloud-Computing-Foundation/Unit-Testing.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wdarren/duke-cloud-computing-solutions/blob/main/01-Cloud-Computing-Foundation/Unit-Testing.ipynb)
 
 ---
