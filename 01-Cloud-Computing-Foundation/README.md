@@ -12,4 +12,6 @@
   2. 將使用lambda_website.py 程式碼
   3. 設定 trigger 為 API gateway
   4. 使用 endpoint 連結測試網頁是否正常運作
+* [4. Python env set-up](Python-Scaffold.md)
+* [5. Zola Static Site Generator](zola-website.md)
 ---

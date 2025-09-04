@@ -279,13 +279,15 @@ base_url = "https://username.github.io/"
 base_url = "https://username.github.io/repo-name/"
 ```
 ### 2. 建立 GitHub Repo
+```bash
 git init
 git remote add origin git@github.com:USERNAME/REPO_NAME.git
 git add .
 git commit -m "init site"
 git push -u origin main
+```
 
-3. 新增 GitHub Actions 工作流程
+### 3. 新增 GitHub Actions 工作流程
 
 建立檔案 .github/workflows/deploy.yml：
 ```
@@ -333,7 +335,7 @@ jobs:
     steps:
       - uses: actions/deploy-pages@v4
 ```
-4. 啟用 GitHub Pages
+### 4. 啟用 GitHub Pages
 
 到 repo → Settings → Pages。
 
