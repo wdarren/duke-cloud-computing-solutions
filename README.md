@@ -11,7 +11,7 @@ Exercises, projects in this course
 * [2. Unit Testing](Unit-Testing.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wdarren/duke-cloud-computing-solutions/blob/main/01-Cloud-Computing-Foundation/Unit-Testing.ipynb)
 
-* [3. Serverless Website with Lambda](lambda_website.py)
+* [3. Serverless Website with Lambda](01-Cloud-Computing-Foundation/lambda_website.py)
   ### 佈署
   1. 在 AWS 主控台新增lamda function
   2. 將使用lambda_website.py 程式碼
