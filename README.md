@@ -21,4 +21,10 @@ Exercises, projects in this course
 * [5. Zola Static Site Generator](01-Cloud-Computing-Foundation/zola-website.md)
 ---
 ## 2. Cloud Virtualization, Containers, and APIs
+
 * [1. Dockerfile and Docker Compose](02-Cloud-Virtualization-Container-API/Python-docker.md)
+
+## 3. Cloud Data Engineering
+
+* [1. Threading vs. Multiprocessing](03-Cloud-Data-Engineering/threads_multiprocessing.ipynb)
+* [2. Mapreduce Concept Exercise](03-Cloud-Data-Engineering/mapreduce_example.ipynb)
