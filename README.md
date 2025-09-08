@@ -28,3 +28,4 @@ Exercises, projects in this course
 
 * [1. Threading vs. Multiprocessing](03-Cloud-Data-Engineering/threads_multiprocessing.ipynb)
 * [2. Mapreduce Concept Exercise](03-Cloud-Data-Engineering/mapreduce_example.ipynb)
+* [3. Streaming Generator Simulation](03-Cloud-Data-Engineering/streaming_generators.ipynb)
